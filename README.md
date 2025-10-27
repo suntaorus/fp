@@ -1,4 +1,5 @@
-# fp
+# Learning Fucntional Programming
+## My personal notebook
 Things I learned on the way towards Functional programming.
 
 Below is a list of sources which I used to learn more about functional programming. 
