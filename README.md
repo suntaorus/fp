@@ -1,26 +1,16 @@
-# Learning Fucntional Programming
-## My personal notebook
-Things I learned on the way towards Functional programming.
+# Programming notebook 
 
-Below is a list of sources which I used to learn more about functional programming. 
+This repository contains my reference materia and notes on various programming paradigms and practices, including Test Driven Development (TDD), Functional Programming (FP), and Object Oriented Programming (OOP).
 
+I am mostly referencing YouTube videos that I found helpful in understanding these concepts. However, I also include some articles and papers that provide additional insights.
+Feel free to explore the different sections to learn more about each topic!
+## Sections
 
-[Functional programming - A general introduction ](https://www.youtube.com/watch?v=8z_bUIl_uPo)
+- [Test Driven Development (TDD)](testing.md)
+- [Functional Programming (FP)](fp.md)
+- [Object Oriented Programming (OOP)](oop.md)
+- [Java](java.md)
 
-[Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
+## Contributing
+If you have any additional resources or notes that you think would be valuable to include, please feel free to contribute by submitting a pull request.
 
-[Is Functional Programming DEAD Already?](https://www.youtube.com/watch?v=gE6nnDsh5Ck)
-
-[Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
-
-[The Absolute Best Intro to Monads For Software Engineers](https://www.youtube.com/watch?v=C2w45qRc3aU&t=506s)
-
-[ "How to Think about Parallel Programming: Not!" - Guy L. Steele Jr. (Strange Loop 2010) ](https://www.youtube.com/watch?v=dPK6t7echuA)
-
-[A Sensible Introduction to Category Theory](https://www.youtube.com/watch?v=yAi3XWCBkDo)
-
-[ Daniel Beskin - Category Theory as a Tool for Thought ](https://www.youtube.com/watch?v=C1IGfRIjK5A)
-
-[Martin Odersky - Scala's Role in the Programming Languages Ecosystem](https://www.youtube.com/watch?v=7mTNZeiIK7E)
-
-[Robert Martin on Clojure, AI, Programming Languages and the Craft of Good Code](https://www.youtube.com/watch?v=FWQ5ICLEOu8)
